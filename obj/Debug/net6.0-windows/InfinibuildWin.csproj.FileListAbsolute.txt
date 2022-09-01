@@ -1,0 +1,17 @@
+C:\Users\singh\Documents\Development\InfinibuildWin\bin\Debug\net6.0-windows\InfinibuildWin.exe
+C:\Users\singh\Documents\Development\InfinibuildWin\bin\Debug\net6.0-windows\InfinibuildWin.deps.json
+C:\Users\singh\Documents\Development\InfinibuildWin\bin\Debug\net6.0-windows\InfinibuildWin.runtimeconfig.json
+C:\Users\singh\Documents\Development\InfinibuildWin\bin\Debug\net6.0-windows\InfinibuildWin.dll
+C:\Users\singh\Documents\Development\InfinibuildWin\bin\Debug\net6.0-windows\InfinibuildWin.pdb
+C:\Users\singh\Documents\Development\InfinibuildWin\obj\Debug\net6.0-windows\InfinibuildWin.csproj.AssemblyReference.cache
+C:\Users\singh\Documents\Development\InfinibuildWin\obj\Debug\net6.0-windows\InfinibuildWin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\singh\Documents\Development\InfinibuildWin\obj\Debug\net6.0-windows\InfinibuildWin.AssemblyInfoInputs.cache
+C:\Users\singh\Documents\Development\InfinibuildWin\obj\Debug\net6.0-windows\InfinibuildWin.AssemblyInfo.cs
+C:\Users\singh\Documents\Development\InfinibuildWin\obj\Debug\net6.0-windows\InfinibuildWin.csproj.CoreCompileInputs.cache
+C:\Users\singh\Documents\Development\InfinibuildWin\obj\Debug\net6.0-windows\InfinibuildWin.dll
+C:\Users\singh\Documents\Development\InfinibuildWin\obj\Debug\net6.0-windows\refint\InfinibuildWin.dll
+C:\Users\singh\Documents\Development\InfinibuildWin\obj\Debug\net6.0-windows\InfinibuildWin.pdb
+C:\Users\singh\Documents\Development\InfinibuildWin\obj\Debug\net6.0-windows\InfinibuildWin.genruntimeconfig.cache
+C:\Users\singh\Documents\Development\InfinibuildWin\obj\Debug\net6.0-windows\ref\InfinibuildWin.dll
+C:\Users\singh\Documents\Development\InfinibuildWin\obj\Debug\net6.0-windows\InfinibuildWin.Resource1.resources
+C:\Users\singh\Documents\Development\InfinibuildWin\obj\Debug\net6.0-windows\InfinibuildWin.csproj.GenerateResource.cache
