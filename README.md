@@ -34,14 +34,7 @@
 
 Once you've forked and cloned the project:
 
-With `wrangler`, you can build, test, and deploy your Worker with the following commands:
-
-```sh
-$ npx wrangler dev
-
-# deploy your Worker globally to the Cloudflare network (update your wrangler.toml file for configuration)
-$ npx wrangler publish
-```
+`Run the project in Visual Studio 2022 WinForms`
 
 ## Contributing
 
